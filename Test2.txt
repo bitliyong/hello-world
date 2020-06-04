@@ -1,6 +1,10 @@
 git add file and the reset to exclude it in current node.
+<<<<<<< HEAD
 
 this will be commit in dev branch.
 
 this will be commit in release branch.
 >>>>>>> release
+=======
+this will be commit in release branch.
+>>>>>>> 005f9e1... update file

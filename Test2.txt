@@ -1,2 +1,6 @@
 git add file and the reset to exclude it in current node.
+
 this will be commit in dev branch.
+
+this will be commit in release branch.
+>>>>>>> release
